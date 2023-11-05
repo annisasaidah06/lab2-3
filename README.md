@@ -1,4 +1,6 @@
 # lab2-3
+
+# struktur kondisi
 <P>LATIHAN 1</P>
 buat program sederhana dengan input 2 buah
 bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
